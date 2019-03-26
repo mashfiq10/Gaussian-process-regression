@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 #############################################################
-# CS5783: Machine Learning #
-# Assignment 4 #
-# Problem 1: Gaussian process regression #
+# Gaussian process regression #
 # Sk. Mashfiqur Rahman #
 #############################################################
 
